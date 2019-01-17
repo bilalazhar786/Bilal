@@ -1,0 +1,14 @@
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\bin\Debug\netcoreapp2.1\AspdotnetAssignment.deps.json
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\bin\Debug\netcoreapp2.1\AspdotnetAssignment.runtimeconfig.json
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\bin\Debug\netcoreapp2.1\AspdotnetAssignment.runtimeconfig.dev.json
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\bin\Debug\netcoreapp2.1\AspdotnetAssignment.dll
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\bin\Debug\netcoreapp2.1\AspdotnetAssignment.pdb
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.csprojAssemblyReference.cache
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.RazorAssemblyInfo.cache
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.RazorAssemblyInfo.cs
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.AssemblyInfoInputs.cache
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.AssemblyInfo.cs
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.dll
+C:\Users\Bilal Azhar\Source\Repos\AspdotnetAssignment\AspdotnetAssignment\obj\Debug\netcoreapp2.1\AspdotnetAssignment.pdb
